@@ -1,0 +1,6 @@
+pyualtrics
+smtplib
+xlwt
+pandas
+numpy
+python-dotenv
