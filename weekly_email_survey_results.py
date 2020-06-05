@@ -7,8 +7,6 @@ from datetime import date, datetime, timedelta
 import pandas as pd
 import numpy as np
 import csv
-import xlwt
-from xlwt import Workbookwww.twitch.tv/currencytv 
 
 load_dotenv()
 
